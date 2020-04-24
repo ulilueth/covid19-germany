@@ -5,4 +5,4 @@ Different stages of the Covid19 epidemic in Germany are simulated and plotted. S
 
 Feel free to create your own variations by changing global variables. 
 
-![pre lockdown](./pre_lockdown.png)
+![pre lockdown](./images/pre_lockdown.png)
