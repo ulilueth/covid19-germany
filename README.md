@@ -6,7 +6,7 @@ Different stages of the Covid19 epidemic in Germany are simulated and plotted. S
 Feel free to create your own variations by changing global variables. 
 
 ![pre lockdown](./images/pre_lockdown.png)
-Exponetial growth stage in March 2020
+Exponential growth stage in March 2020
 
 - straight slope (logarithm y-scale) 
 - doubling time 2.9 days
